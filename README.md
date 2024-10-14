@@ -1,1 +1,3 @@
-This is a repo containing all code doene in python calss
+# Python Class Code Repository
+
+This repository contains all the code and projects developed during the Python class.
